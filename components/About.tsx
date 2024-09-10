@@ -26,9 +26,10 @@ export default function About() {
           </div>
         </div>
         <p className="text-base sm:text-lg">
-          I&apos;m a passionate FullStack Developer currently seeking to learn
-          the new technologies and making exciting products with them, whilst
-          providing the client with exciting product.
+          I&apos;m a passionate{" "}
+          <span className="italic underline font-mono">Full-Stack Developer</span> currently
+          seeking to learn the new technologies and making exciting products
+          with them, whilst providing the client with exciting product.
         </p>
 
         <div className="flex flex-wrap justify-center gap-4 sm:gap-6">
